@@ -1,4 +1,4 @@
-* Cache Simulator
+# Cache Simulator
 
 I developed three different versions of
 a cache simulator:
